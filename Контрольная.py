@@ -83,8 +83,8 @@ def poisk_po_bd(search_term):
     return result
 init_bd()
 dob_kniga("Война и мир", "Л. Толстой", 1867)
-dob_kniga("Ведьмак", "А. Сопковский", 1865)
-dob_kniga("Властелин колец", "Р. Толкин", 1948)
+dob_kniga("Ведьмак", "А. Сопковский", 1999)
+dob_kniga("Властелин колец", "Р. Толкин", 1954)
 new_chitatel("В. Путин", "+79991112233")
 new_chitatel("Д. Трамп", "+79994445566")
 vidacha_knigi(1, 1)
